@@ -39,10 +39,7 @@ dependencies: \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTRootShadowView.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTShadowView.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTRootViewInternal.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTShadowView+Internal.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowViewDelegate.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/Surface/RCTSurfaceRootView.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Modules/RCTUIManagerObserverCoordinator.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Modules/RCTUIManagerUtils.h

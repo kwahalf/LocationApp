@@ -21,6 +21,7 @@ dependencies: \
   /Users/denisjuma/Desktop/react-native/LocationApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTJSEnvironment.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTModuleData.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Profiler/RCTProfile.h \

@@ -423,9 +423,10 @@ dependencies: \
   /Users/denisjuma/Desktop/react-native/LocationApp/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSIndexedRAMBundle.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBigString.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSModulesUnbundle.h \
+  /Users/denisjuma/Desktop/react-native/LocationApp/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSIndexedRAMBundleRegistry.h \
+  /Users/denisjuma/Desktop/react-native/LocationApp/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/RAMBundleRegistry.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/Platform.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/MessageQueueThread.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/RAMBundleRegistry.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/CxxBridge/NSDataBigString.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/CxxBridge/RCTJSCHelpers.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/CxxBridge/RCTMessageThread.h \

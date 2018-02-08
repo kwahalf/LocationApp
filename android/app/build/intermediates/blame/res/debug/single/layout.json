@@ -77,7 +77,7 @@
     },
     {
         "merged": "/Users/denisjuma/Desktop/react-native/LocationApp/android/app/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
-        "source": "/Users/denisjuma/Desktop/react-native/LocationApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/layout/redbox_item_frame.xml"
+        "source": "/Users/denisjuma/Desktop/react-native/LocationApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/res/layout/redbox_item_frame.xml"
     },
     {
         "merged": "/Users/denisjuma/Desktop/react-native/LocationApp/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
@@ -109,11 +109,11 @@
     },
     {
         "merged": "/Users/denisjuma/Desktop/react-native/LocationApp/android/app/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
-        "source": "/Users/denisjuma/Desktop/react-native/LocationApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/layout/redbox_item_title.xml"
+        "source": "/Users/denisjuma/Desktop/react-native/LocationApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/res/layout/redbox_item_title.xml"
     },
     {
         "merged": "/Users/denisjuma/Desktop/react-native/LocationApp/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml",
-        "source": "/Users/denisjuma/Desktop/react-native/LocationApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/layout/fps_view.xml"
+        "source": "/Users/denisjuma/Desktop/react-native/LocationApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/res/layout/fps_view.xml"
     },
     {
         "merged": "/Users/denisjuma/Desktop/react-native/LocationApp/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
@@ -133,7 +133,7 @@
     },
     {
         "merged": "/Users/denisjuma/Desktop/react-native/LocationApp/android/app/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
-        "source": "/Users/denisjuma/Desktop/react-native/LocationApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/layout/dev_loading_view.xml"
+        "source": "/Users/denisjuma/Desktop/react-native/LocationApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/res/layout/dev_loading_view.xml"
     },
     {
         "merged": "/Users/denisjuma/Desktop/react-native/LocationApp/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
@@ -161,6 +161,6 @@
     },
     {
         "merged": "/Users/denisjuma/Desktop/react-native/LocationApp/android/app/build/intermediates/res/merged/debug/layout/redbox_view.xml",
-        "source": "/Users/denisjuma/Desktop/react-native/LocationApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/layout/redbox_view.xml"
+        "source": "/Users/denisjuma/Desktop/react-native/LocationApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/res/layout/redbox_view.xml"
     }
 ]

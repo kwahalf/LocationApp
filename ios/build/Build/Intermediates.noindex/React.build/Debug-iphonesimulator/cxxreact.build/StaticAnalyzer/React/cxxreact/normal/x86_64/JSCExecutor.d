@@ -385,7 +385,7 @@ dependencies: \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/json.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCHelpers.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Memory.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/ios/build/Build/Products/Debug-iphonesimulator/include/jsinspector/InspectorInterfaces.h \
+  /Users/denisjuma/Desktop/react-native/LocationApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/InspectorInterfaces.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/ReactCommon/cxxreact/JSBigString.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/ReactCommon/cxxreact/JSBundleType.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/ReactCommon/cxxreact/JSCLegacyTracing.h \

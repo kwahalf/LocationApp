@@ -28,5 +28,4 @@ dependencies: \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTModalHostViewController.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTTouchHandler.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Modules/RCTUIManager.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTRootView.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTTVRemoteHandler.h
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTRootView.h

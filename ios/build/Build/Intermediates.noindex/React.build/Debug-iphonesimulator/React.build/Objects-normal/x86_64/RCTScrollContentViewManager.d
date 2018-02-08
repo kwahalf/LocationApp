@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/ScrollView/RCTScrollContentViewManager.m \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/ScrollView/RCTScrollContentViewManager.h \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTScrollContentViewManager.m \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTScrollContentViewManager.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTViewManager.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTDefines.h \
@@ -23,8 +23,6 @@ dependencies: \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTInvalidating.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/UIView+React.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/ScrollView/RCTScrollContentShadowView.h \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTScrollContentShadowView.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTShadowView.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTRootView.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTView.h
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTRootView.h

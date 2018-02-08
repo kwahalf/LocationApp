@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/ScrollView/RCTScrollContentShadowView.m \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/ScrollView/RCTScrollContentShadowView.h \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTScrollContentShadowView.m \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTScrollContentShadowView.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTShadowView.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTComponent.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTRootView.h \

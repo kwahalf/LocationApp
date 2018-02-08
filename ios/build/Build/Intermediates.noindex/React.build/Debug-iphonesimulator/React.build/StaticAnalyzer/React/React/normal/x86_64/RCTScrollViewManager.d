@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/ScrollView/RCTScrollViewManager.m \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/ScrollView/RCTScrollViewManager.h \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTScrollViewManager.m \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTScrollViewManager.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTConvert.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTAnimationType.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTBorderStyle.h \
@@ -23,9 +23,9 @@ dependencies: \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTInvalidating.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/UIView+React.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTScrollView.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTView.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTShadowView.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTRootView.h \

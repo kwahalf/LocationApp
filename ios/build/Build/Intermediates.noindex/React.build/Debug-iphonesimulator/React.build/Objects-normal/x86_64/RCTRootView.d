@@ -32,5 +32,4 @@ dependencies: \
   /Users/denisjuma/Desktop/react-native/LocationApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/UIView+React.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Modules/RCTUIManagerUtils.h
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/UIView+React.h

@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/ScrollView/RCTScrollView.m \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTScrollView.m \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTScrollView.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTBridge.h \
@@ -10,7 +10,7 @@ dependencies: \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTView.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTBorderStyle.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Views/RCTComponent.h \

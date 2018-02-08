@@ -13,10 +13,10 @@ dependencies: \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTBridge+Private.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTJSEnvironment.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTLog.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTAssert.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Profiler/RCTProfile.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h

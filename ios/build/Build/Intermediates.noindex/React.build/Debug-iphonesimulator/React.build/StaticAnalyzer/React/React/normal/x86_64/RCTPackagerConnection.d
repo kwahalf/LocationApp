@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/DevSupport/RCTPackagerConnection.mm \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/DevSupport/RCTPackagerConnection.m \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTDefines.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/Base/RCTAssert.h \
@@ -20,6 +20,10 @@ dependencies: \
   /Users/denisjuma/Desktop/react-native/LocationApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
   /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/../Libraries/WebSocket/RCTReconnectingWebSocket.h \
-  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/DevSupport/RCTPackagerConnectionBridgeConfig.h \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/DevSupport/RCTPackagerConnectionConfig.h \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/DevSupport/RCTReloadPackagerMethod.h \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/denisjuma/Desktop/react-native/LocationApp/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.h
