@@ -27,7 +27,7 @@ matrix:
         - rvm install ruby-2.3.0
         - nvm install 8
       install:
-        - cd examples/UXCamExample
+        # - cd examples/UXCamExample
         - yarn
         - cd android
         - bundle install
