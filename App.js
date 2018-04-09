@@ -17,6 +17,7 @@ export default class App extends React.Component {
           longitudeDelta: 0.0421,
         }
 
+
       })
     }, err => console.log(err));
 
