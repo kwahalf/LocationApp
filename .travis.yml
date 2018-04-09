@@ -53,3 +53,4 @@ matrix:
         - bundle install
       script:
         - bundle exec fastlane test
+        
